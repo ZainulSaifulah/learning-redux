@@ -1,6 +1,5 @@
-import { productAdded, productRemoved, productMarkAsDiscount } from "./store/products";
+import { productAdded, productRemoved, productMarkAsDiscount } from "./store/product";
 import store from "./store/store"
-// import { productAdded, productRemoved, productMarkAsDiscount } from "./store/product/actions"
 
 
 store.subscribe(() => {
