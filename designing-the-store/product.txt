@@ -1,0 +1,8 @@
+[
+  {
+    id: number,
+    name: string,
+    price: number,
+    hasDiscount: boolean
+  }
+]

@@ -1,0 +1,15 @@
+{
+  type: "addProductToCart",
+  payload: {
+    id:
+    quantity:
+  }
+}
+
+{
+  type: "removeProductFromCart",
+  payload: {
+    
+  }
+}
+

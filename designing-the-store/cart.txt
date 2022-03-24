@@ -1,0 +1,8 @@
+[
+  {
+    id: number,
+    code: string,
+    quantity: number,
+    totalPrice: number,
+  }
+]
